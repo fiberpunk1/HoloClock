@@ -18,9 +18,9 @@ All about holo clock
 
 ## 2.How to update firmware
 
-	[HoloClock update firmware](https://docs.google.com/presentation/d/1tGSQJ-QNTF4O9Le1p9SCZYB10ZSOF2crVGB-SorwDfQ/edit?usp=share_link)
+[HoloClock update firmware](https://docs.google.com/presentation/d/1tGSQJ-QNTF4O9Le1p9SCZYB10ZSOF2crVGB-SorwDfQ/edit?usp=share_link)
 
 
 ## 3.Change the mp4 content of the holoclock
 
-	[Change mp4 content of holoclock](https://docs.google.com/presentation/d/1y3IwDwjFQHf_qk9g2-_6abs2Ndtn1MmuqI5m8sPeSbs/edit?usp=share_link)
+[Change mp4 content of holoclock](https://docs.google.com/presentation/d/1y3IwDwjFQHf_qk9g2-_6abs2Ndtn1MmuqI5m8sPeSbs/edit?usp=share_link)
